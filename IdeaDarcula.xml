@@ -23,7 +23,7 @@
     <javadocTag color="#629755" bold="false" italic="false" underline="false" strikethrough="false" />
     <javadocKeyword color="#A9B7C6" bold="false" italic="false" underline="false"
         strikethrough="false" />
-    <class color="#CFD2D5" bold="false" italic="false" underline="false" strikethrough="false" />
+    <class color="#E5E5E5" bold="false" italic="false" underline="false" strikethrough="false" />
     <interface color="#B3B3B3" bold="false" italic="false" underline="false" strikethrough="false" />
     <method color="#FFC66D" bold="false" italic="false" underline="false" strikethrough="false" />
     <methodDeclaration color="#56A8F5" bold="false" italic="false" underline="false"
@@ -31,13 +31,13 @@
     <bracket color="#A9B7C6" bold="false" italic="false" underline="false" strikethrough="false" />
     <number color="#6897BB" bold="false" italic="false" underline="false" strikethrough="false" />
     <string color="#629755" bold="false" italic="false" underline="false" strikethrough="false" />
-    <operator color="#A9B7C6" bold="false" italic="false" underline="false" strikethrough="false" />
+    <operator color="#E5E5E5" bold="false" italic="false" underline="false" strikethrough="false" />
     <keyword color="#CC7832" bold="false" italic="false" underline="false" strikethrough="false" />
     <annotation color="#BBB529" bold="false" italic="false" underline="false" strikethrough="false" />
     <staticMethod color="#FFC66D" bold="false" italic="true" underline="false" strikethrough="false" />
-    <localVariable color="#CFD2D5" bold="false" italic="false" underline="false"
+    <localVariable color="#E5E5E5" bold="false" italic="false" underline="false"
         strikethrough="false" />
-    <localVariableDeclaration color="#CFD2D5" bold="false" italic="false" underline="false"
+    <localVariableDeclaration color="#E5E5E5" bold="false" italic="false" underline="false"
         strikethrough="false" />
     <field color="#A782BB" bold="false" italic="false" underline="false" strikethrough="false" />
     <staticField color="#A782BB" bold="false" italic="true" underline="false" strikethrough="false" />
@@ -59,5 +59,5 @@
     <typeParameter color="#507874" bold="false" italic="false" underline="false"
         strikethrough="false" />
     <constant color="#A782BB" bold="false" italic="false" underline="false" strikethrough="false" />
-    <abstractClass color="#CFD2D5" bold="false" italic="false" underline="false" strikethrough="false" />
+    <abstractClass color="#E5E5E5" bold="false" italic="false" underline="false" strikethrough="false" />
 </colorTheme>
