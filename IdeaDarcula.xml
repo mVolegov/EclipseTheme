@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<colorTheme author="author" id="297" name="IdeaDarcula">
+    <foreground color="#A9B7C6" />
+    <background color="#191919" />
+    <selectionForeground color="#A9B7C6" />
+    <selectionBackground color="#214283" />
+    <currentLine color="#323232" />
+    <lineNumber color="#888888" />
+    <searchResultIndication color="#155221" />
+    <filteredSearchResultIndication color="#606080" />
+    <occurrenceIndication color="#5D8730" />
+    <writeOccurrenceIndication color="#5D8730" />
+    <findScope color="#5D8730" />
+    <sourceHoverBackground color="#5D8730" />
+    <singleLineComment color="#808080" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <multiLineComment color="#808080" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <commentTaskTag color="#629755" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <javadoc color="#629755" bold="false" italic="false" underline="false" strikethrough="false" />
+    <javadocLink color="#629755" bold="false" italic="false" underline="true" strikethrough="false" />
+    <javadocTag color="#629755" bold="false" italic="false" underline="false" strikethrough="false" />
+    <javadocKeyword color="#A9B7C6" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <class color="#CFD2D5" bold="false" italic="false" underline="false" strikethrough="false" />
+    <interface color="#B3B3B3" bold="false" italic="false" underline="false" strikethrough="false" />
+    <method color="#FFC66D" bold="false" italic="false" underline="false" strikethrough="false" />
+    <methodDeclaration color="#56A8F5" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <bracket color="#A9B7C6" bold="false" italic="false" underline="false" strikethrough="false" />
+    <number color="#6897BB" bold="false" italic="false" underline="false" strikethrough="false" />
+    <string color="#629755" bold="false" italic="false" underline="false" strikethrough="false" />
+    <operator color="#A9B7C6" bold="false" italic="false" underline="false" strikethrough="false" />
+    <keyword color="#CC7832" bold="false" italic="false" underline="false" strikethrough="false" />
+    <annotation color="#BBB529" bold="false" italic="false" underline="false" strikethrough="false" />
+    <staticMethod color="#FFC66D" bold="false" italic="true" underline="false" strikethrough="false" />
+    <localVariable color="#CFD2D5" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <localVariableDeclaration color="#CFD2D5" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <field color="#A782BB" bold="false" italic="false" underline="false" strikethrough="false" />
+    <staticField color="#A782BB" bold="false" italic="true" underline="false" strikethrough="false" />
+    <staticFinalField color="#A782BB" bold="false" italic="true" underline="false"
+        strikethrough="false" />
+    <deprecatedMember color="#D25252" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <deletionIndication color="#D25252" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <enum color="#9876AA" bold="false" italic="false" underline="false" strikethrough="false" />
+    <inheritedMethod color="#FFC66D" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <abstractMethod color="#FFC66D" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <parameterVariable color="#CFD2D5" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <typeArgument color="#A9B7C6" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <typeParameter color="#507874" bold="false" italic="false" underline="false"
+        strikethrough="false" />
+    <constant color="#A782BB" bold="false" italic="false" underline="false" strikethrough="false" />
+    <abstractClass color="#CFD2D5" bold="false" italic="false" underline="false" strikethrough="false" />
+</colorTheme>
